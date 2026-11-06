@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "amount": 100.0,
+    "category": "еда",
+    "description": "булочка",
+    "date": "2026-10-18"
+  },
+  {
+    "id": 2,
+    "amount": 100.0,
+    "category": "еда",
+    "description": "булочка",
+    "date": "2026-10-18"
+  },
+  {
+    "id": 3,
+    "amount": 2000.0,
+    "category": "ии",
+    "description": "кодекс",
+    "date": "2026-10-18"
+  }
+]
